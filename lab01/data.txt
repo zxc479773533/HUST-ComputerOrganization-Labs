@@ -1,0 +1,13 @@
+v2.0 raw
+
+bbaa d6d0 bfc6 bcbc b4f3 d1a7 bcc6 cbe3
+bbfa bfc6 d1a7 d3eb bcbc caf5 d1a7 d4ba
+a3ac ceef c1aa cdf8 a3b1 a3b6 a3b0 a3b1
+b0e0 c5cb d4bd cdac d1a7 a3ac cfd6 d4da
+d5fd d4da bdf8 d0d0 a1b6 bcc6 cbe3 bbfa
+d7e9 b3c9 d4ad c0ed a1b7 b5da d2bb b4ce
+cab5 d1e9 a3ba cafd d7d6 b1ed cabe cab5
+d1e9 a3ac cfd6 d4da bfaa cabc b2e2 cad4
+cab5 d1e9 d2bb a3ba baba d7d6 b1e0 c2eb
+cab5 d1e9 a1a3 c7eb c0cf caa6 bcec b2e9
+a3ac d0bb d0bb a3a1
