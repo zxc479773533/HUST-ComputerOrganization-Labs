@@ -223,6 +223,7 @@
     <wire from="(160,540)" to="(200,540)"/>
     <wire from="(50,350)" to="(50,570)"/>
     <wire from="(30,370)" to="(30,590)"/>
+    <wire from="(140,290)" to="(170,290)"/>
     <wire from="(930,410)" to="(950,410)"/>
     <wire from="(560,440)" to="(580,440)"/>
     <wire from="(110,270)" to="(110,370)"/>
@@ -242,6 +243,7 @@
     <wire from="(700,220)" to="(700,360)"/>
     <wire from="(850,190)" to="(850,200)"/>
     <wire from="(580,440)" to="(630,440)"/>
+    <wire from="(140,280)" to="(140,290)"/>
     <wire from="(720,240)" to="(720,370)"/>
     <wire from="(440,160)" to="(940,160)"/>
     <wire from="(580,480)" to="(770,480)"/>
@@ -571,6 +573,9 @@ ae300200 22100001 22310004 ae300200 22100001 22310004 ae300200 22100001
       <a name="bit31" val="none"/>
     </comp>
     <comp loc="(740,410)" name="◆MIPS ALU"/>
+    <comp lib="0" loc="(170,290)" name="Tunnel">
+      <a name="label" val="RST"/>
+    </comp>
     <comp lib="1" loc="(840,230)" name="AND Gate">
       <a name="size" val="30"/>
       <a name="inputs" val="2"/>
@@ -2900,6 +2905,7 @@ ae300200 22100001 22310004 ae300200 22100001 22310004 ae300200 22100001
       <a name="bit30" val="none"/>
       <a name="bit31" val="none"/>
     </comp>
+    <comp loc="(510,270)" name="◇多周期硬布线控制器"/>
     <comp lib="4" loc="(980,530)" name="Register">
       <a name="width" val="32"/>
       <a name="label" val="C"/>
@@ -3042,7 +3048,6 @@ ae300200 22100001 22310004 ae300200 22100001 22310004 ae300200 22100001
       <a name="label" val="CLK"/>
       <a name="labelfont" val="SansSerif plain 10"/>
     </comp>
-    <comp loc="(500,240)" name="◇多周期微程序控制器"/>
     <comp lib="2" loc="(750,480)" name="Multiplexer">
       <a name="selloc" val="tr"/>
       <a name="width" val="32"/>
